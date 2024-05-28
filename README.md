@@ -1,5 +1,6 @@
 # aws_cloud_practitioner
-aws cloud practitioner for beginner
+
+[aws cloud practitioner for beginner](https://chlocdev.github.io/aws_cloud_practitioner/)
 
  # references
 
