@@ -1,7 +1,5 @@
 # aws_cloud
 
-[aws cloud-home page](https://chlocdev.github.io/aws_cloud/)
-
  # references
 
  https://app.exampro.co
